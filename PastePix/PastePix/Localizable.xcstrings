@@ -1,0 +1,83 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Developed by" : {
+
+    },
+    "errorNoImgTXT" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No image to preview"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Er is geen afbeelding om weer te geven"
+          }
+        }
+      }
+    },
+    "GADijkhuis" : {
+
+    },
+    "imageSaved" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image is successfully saved"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afbeelding is succesvol opgeslagen"
+          }
+        }
+      }
+    },
+    "OK" : {
+
+    },
+    "pasteImageBTN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Paste Image"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afbeelding plakken"
+          }
+        }
+      }
+    },
+    "PastePix" : {
+
+    },
+    "saveImageBTN" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save Image"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afbeelding opslaan"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
